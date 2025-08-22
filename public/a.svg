@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="123.21055"
+   height="104.67133"
+   viewBox="0 0 123.45697 104.67133"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="ASUS_Logo.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.4153258"
+     inkscape:cx="245.36459"
+     inkscape:cy="50.946824"
+     inkscape:window-width="2560"
+     inkscape:window-height="1368"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="g1"
+     transform="translate(-0.945312,-1.2497731)">
+    <g
+       id="surface1">
+      <a
+         id="a1">
+        <path
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 123.80078,1.144531 H 74.167969 c -3.75,0 -7.304688,1.578125 -9.96875,5.332031 -2.761719,3.65625 -14.109375,22.417969 -14.109375,22.417969 h 74.225926 c -0.31955,-28.4832229 -0.51499,-27.75 -0.51499,-27.75 z M 48.902344,30.574219 0.945312,106.02344 H 33.707031 L 79.890625,33.929688 Z m 75.374476,4.855998 -28.796351,-0.313029 c -0.09766,0 -0.09766,70.906252 -0.09766,70.906252 L 124.40228,105.698 Z"
+           id="path1"
+           sodipodi:nodetypes="cscccccccccccccc" />
+      </a>
+    </g>
+  </g>
+</svg>
